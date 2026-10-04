@@ -1,4 +1,8 @@
-## Hi there 👋
+# Dalton Gomes Lauter Falaque
+
+Estudante de Engenharia Informática na Universidade Eduardo Mondlane.
+
+Actualmente estou a desenvolver competências em desenvolvimento de software, bases de dados, sistemas e engenharia de software.
 
 <!--
 **DaltonFalaque/DaltonFalaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
